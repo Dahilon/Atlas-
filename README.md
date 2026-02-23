@@ -34,7 +34,7 @@ Both sources feed the same ML pipeline (severity scoring, entity extraction, eve
 
 ## Dashboard Preview
 
-![Global Events Risk Intelligence Dashboard](./Screenshot%202026-02-23%20at%209.48.38%20AM.png)
+![Global Events Risk Intelligence Dashboard](docs/images/Screenshot%202026-02-23%20at%209.48.38%20AM.png)
 
 *Interactive 3D globe with real-time geopolitical risk indicators, event feed, and risk metrics*
 
