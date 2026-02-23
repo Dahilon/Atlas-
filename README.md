@@ -30,6 +30,16 @@ A real-time geopolitical risk dashboard that aggregates conflict and crisis even
 
 Both sources feed the same ML pipeline (severity scoring, entity extraction, event classification, anomaly detection, trend analysis).
 
+---
+
+## Dashboard Preview
+
+![Global Events Risk Intelligence Dashboard](./Screenshot%202026-02-23%20at%209.48.38%20AM.png)
+
+*Interactive 3D globe with real-time geopolitical risk indicators, event feed, and risk metrics*
+
+---
+
 ## Getting started
 
 ### Prerequisites
